@@ -1,2 +1,10 @@
- .plane {font-style:italic}
- .bold {font-weight: 700}
+ .plane-description {
+     font-style:italic;
+}
+ .bold {
+     font-weight: 700;
+}
+
+ .img {
+    width: 700px;
+ }
